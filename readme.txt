@@ -15,9 +15,7 @@ For sending Wordpress Gravityforms data to Sherpa's add lead RESTful endpoint.
 For use only with Gravity Forms v1.9 or greater.
 
 Main Settings
-Main for settings can be found under admin -> Forms -> Settings -> Sherpa GForm. You will need a the Company ID supplied by Sherpa. The sandbox Company ID is set by default. You will need the correct Company ID supplied by Sherpa.
-
-The endpoint url is also set to the sandbox environment by default. The procuction endpoint url is https://members.sherpacrm.com/api/lead/create.
+Main for settings can be found under admin -> Forms -> Settings -> Sherpa GForm. You will need a the Company ID supplied by Sherpa. The sandbox Company ID is set by default. You will need the correct Company ID supplied by Sherpa. The endpoint url is also set to the sandbox environment by default.
 
 If you wish to send a debug email select the "Send a debug email" checkbox. The debug email contains the json query and the response from sherpa, and is useful in debugging without the presence of a log file.
 
