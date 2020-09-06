@@ -54,7 +54,7 @@ Resident First Name -> text or hidden
 Resident Last Name -> text or hidden
 Resident Relationship -> select or hidden
 
-So make sure when creating your form that you use the correct form field types for the Sherpa field mapping. For more information on field mapping, see the Sherpa Gform within the plugin.
+So make sure when creating your form that you use the correct form field types for the Sherpa field mapping. For more information on field mapping, see the Sherpa Gform plugin page under Forms in the Admin console.
 
 == Changelog ==
 
