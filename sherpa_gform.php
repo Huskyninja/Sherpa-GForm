@@ -2,9 +2,9 @@
 /*
 Plugin Name: Sherpa Gravity Forms
 Description: Send form data to the Sherpa CRM using Gravity Form's Add-on Framework
-version: 0.6
-Author: Sage Age
-Author URI: https://www.sageagestrategies.com/
+version: 0.7
+Author: Husky Ninja
+Author URI: https://www.husky.ninja
 License: GPLv3 or later
 Text Domain: sherpa_gform
 Domain Path: /languages
@@ -27,7 +27,7 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
 */
 
-define( 'SHERPA_GFORM_VERSION', '0.6' );
+define( 'SHERPA_GFORM_VERSION', '0.7' );
  
 add_action( 'gform_loaded', array( 'Sherpa_Gform_Bootstrap', 'load' ), 5 );
  
